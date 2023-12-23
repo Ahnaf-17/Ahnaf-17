@@ -27,7 +27,6 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ahnaf-17&theme=gotham" alt="GitHub Streak" /></a>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahnaf-17&theme=gotham)
-![](https://api.githubtrends.io/user/svg/Ahnaf-17/langs?time_range=one_year&compact=True&theme=dark)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnaf-17&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
